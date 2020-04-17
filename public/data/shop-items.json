@@ -1,0 +1,179 @@
+{
+  "items": [
+    {
+      "id": "c05f1f4a-bc6e-5bab-9a64-3a6684d9d0b0",
+      "title": "Callie Moss",
+      "img_url": "https://i.picsum.photos/id/134/270/270.jpg",
+      "price": 22801,
+      "isAdded": false
+    },
+    {
+      "id": "48995b98-3a55-52e8-a4cd-bbeede926f90",
+      "title": "Vincent Hogan",
+      "img_url": "https://i.picsum.photos/id/985/270/270.jpg",
+      "price": 26409,
+      "isAdded": false
+    },
+    {
+      "id": "bd90d523-8eb9-5935-960d-71352b373021",
+      "title": "Edgar Owen",
+      "img_url": "https://i.picsum.photos/id/110/270/270.jpg",
+      "price": 9935,
+      "isAdded": false
+    },
+    {
+      "id": "2e10b631-cbb3-5db7-b4d4-2ddd4150827d",
+      "title": "Maurice Carlson",
+      "img_url": "https://i.picsum.photos/id/249/270/270.jpg",
+      "price": 18088,
+      "isAdded": false
+    },
+    {
+      "id": "606c14a7-71c8-5840-ba37-e296a7d5e2ab",
+      "title": "Stella Green",
+      "img_url": "https://i.picsum.photos/id/861/270/270.jpg",
+      "price": 10148,
+      "isAdded": false
+    },
+    {
+      "id": "accf2e9b-463c-5c13-86ba-c3ec94d9f288",
+      "title": "Carlos Burgess",
+      "img_url": "https://i.picsum.photos/id/292/270/270.jpg",
+      "price": 16635,
+      "isAdded": false
+    },
+    {
+      "id": "26733f35-a14c-5608-8a2a-7b3636772cad",
+      "title": "Mike Johnson",
+      "img_url": "https://i.picsum.photos/id/308/270/270.jpg",
+      "price": 8905,
+      "isAdded": false
+    },
+    {
+      "id": "5d1a92c1-a713-56a0-9d27-ca78cb09e4cd",
+      "title": "Kenneth Parsons",
+      "img_url": "https://i.picsum.photos/id/563/270/270.jpg",
+      "price": 14639,
+      "isAdded": false
+    },
+    {
+      "id": "62b923d2-5da6-5e69-b66b-3fd4a54b3bf4",
+      "title": "Isaiah Matthews",
+      "img_url": "https://i.picsum.photos/id/110/270/270.jpg",
+      "price": 22570,
+      "isAdded": false
+    },
+    {
+      "id": "9746ba6e-7bea-5def-a674-33bba4ca4673",
+      "title": "Mayme Rowe",
+      "img_url": "https://i.picsum.photos/id/237/270/270.jpg",
+      "price": 8653,
+      "isAdded": false
+    },
+    {
+      "id": "e411231b-6e5b-5960-89ac-f869bf0d41e0",
+      "title": "Gerald Bowman",
+      "img_url": "https://i.picsum.photos/id/365/270/270.jpg",
+      "price": 25436,
+      "isAdded": false
+    },
+    {
+      "id": "6eb1d2c8-4373-52dd-9df5-78f6dbdcecdd",
+      "title": "Pearl Thornton",
+      "img_url": "https://i.picsum.photos/id/301/270/270.jpg",
+      "price": 14876,
+      "isAdded": false
+    },
+    {
+      "id": "79bc750d-ccf0-55fb-9455-c41fae494695",
+      "title": "Anne Baldwin",
+      "img_url": "https://i.picsum.photos/id/194/270/270.jpg",
+      "price": 21553,
+      "isAdded": false
+    },
+    {
+      "id": "b929f905-81f6-5165-9095-407759c401c8",
+      "title": "Rachel Park",
+      "img_url": "https://i.picsum.photos/id/539/270/270.jpg",
+      "price": 16858,
+      "isAdded": false
+    },
+    {
+      "id": "d715235f-1c9c-58e6-8e6a-16fbfc91b786",
+      "title": "Logan Cobb",
+      "img_url": "https://i.picsum.photos/id/88/270/270.jpg",
+      "price": 28165,
+      "isAdded": false
+    },
+    {
+      "id": "7f9f3484-8ab8-53fb-a6d5-b024ab7e576c",
+      "title": "Peter Goodman",
+      "img_url": "https://i.picsum.photos/id/500/270/270.jpg",
+      "price": 19257,
+      "isAdded": false
+    },
+    {
+      "id": "e70df2a2-8911-5754-826a-e796ee6c420d",
+      "title": "Walter Walsh",
+      "img_url": "https://i.picsum.photos/id/570/270/270.jpg",
+      "price": 7230,
+      "isAdded": false
+    },
+    {
+      "id": "20c438e5-4774-5ffc-88da-0a8edd777d3c",
+      "title": "Ricky Gutierrez",
+      "img_url": "https://i.picsum.photos/id/318/270/270.jpg",
+      "price": 1144,
+      "isAdded": false
+    },
+    {
+      "id": "ab42c613-e1c3-51cd-bbb4-ca8eaa9797e9",
+      "title": "Ruth Wilkins",
+      "img_url": "https://i.picsum.photos/id/174/270/270.jpg",
+      "price": 27252,
+      "isAdded": false
+    },
+    {
+      "id": "57bc2a89-9bd1-512b-b711-c284bbc2b835",
+      "title": "Maggie Cobb",
+      "img_url": "https://i.picsum.photos/id/521/270/270.jpg",
+      "price": 23222,
+      "isAdded": false
+    },
+    {
+      "id": "0f507bce-2dfa-5f66-8119-1faabfbf7361",
+      "title": "Lawrence Drake",
+      "img_url": "https://i.picsum.photos/id/788/270/270.jpg",
+      "price": 6491,
+      "isAdded": false
+    },
+    {
+      "id": "8c2e7d59-b156-5603-a651-6cd5ad60bf6c",
+      "title": "Max Horton",
+      "img_url": "https://i.picsum.photos/id/301/270/270.jpg",
+      "price": 5259,
+      "isAdded": false
+    },
+    {
+      "id": "579e1f0a-b6e2-5207-9d17-bde26c5b7054",
+      "title": "Franklin Perry",
+      "img_url": "https://i.picsum.photos/id/558/270/270.jpg",
+      "price": 26488,
+      "isAdded": false
+    },
+    {
+      "id": "f7968bc6-3fd1-5dcb-bbcd-d77654b7c2e1",
+      "title": "Beulah Ford",
+      "img_url": "https://i.picsum.photos/id/304/270/270.jpg",
+      "price": 18102,
+      "isAdded": false
+    },
+    {
+      "id": "b667eefe-c248-5b49-9462-75a110a4d460",
+      "title": "Brett Gonzales",
+      "img_url": "https://i.picsum.photos/id/127/270/270.jpg",
+      "price": 12304,
+      "isAdded": false
+    }
+  ]
+}
